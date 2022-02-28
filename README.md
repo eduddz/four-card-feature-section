@@ -1,10 +1,14 @@
-# Four card feature section
+# Four card feature section 🎈
 
 ## Welcome! 👋
 
 Desenvolvido com html e css. Layout first mobile, usando flexbox e media query
 
-![Design preview for the Four card feature section coding challenge](./design/desktop-design.jpg)
+## Layout Desktop 🎨💻
 
-![Design preview mobile for the Four card feature section coding challenge](./design/mobile-design.jpg)
+![Layout Desktop](./images/layout-desktop.png)
+
+## Layout Mobile 🎨📱
+
+![Layout Mobile](./images/layout-mobile.png)
 
